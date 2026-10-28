@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Battle: Crorepati Edition",
+  "description": "An electric TV quiz show game featuring KBC Single-Player crore prize ladder with lifelines and a 2-Player Pass-and-Play Battle Mode powered dynamically by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
